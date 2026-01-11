@@ -1,0 +1,46 @@
+# DARKSTAR FACEBOOK TOOL - COMPLETE REQUIREMENTS
+# All dependencies for the enhanced DarkStar tool
+
+# Core Libraries
+requests==2.31.0
+urllib3==2.1.0
+
+# Cryptography
+pycryptodome==3.19.0
+pyotp==2.9.0
+
+# UI and Formatting
+colorama==0.4.6
+pyfiglet==1.0.2
+rich==13.7.0
+
+# Data Processing
+json5==0.9.14
+
+# System Utilities
+psutil==5.9.7
+
+# Optional Dependencies
+# Uncomment if needed for additional features
+
+# Web Framework (for web interface)
+# Flask==3.0.0
+# Flask-Compress==1.14
+
+# Database
+# SQLAlchemy==2.0.23
+
+# Task Scheduling
+# schedule==1.2.0
+
+# Proxy Management
+# PySocks==1.7.1
+
+# Additional Security
+# bcrypt==4.1.2
+# pyjwt==2.8.0
+
+# Development Tools
+# pytest==7.4.3
+# black==23.12.1
+# mypy==1.8.0
